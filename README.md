@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello world! I’m Sarveshvar S<br><br>👀 I’m interested in exploring new technologies, coding challenges, and innovative software solutions.<br>🌱 I’m currently learning C++, web development, and data structures and algorithms.<br>💞️ I’m looking to collaborate on open-source projects and participate in hackathons.<br>📫 Feel free to connect with me via https://www.linkedin.com/in/sarveshvar-s-218715277/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a drummer! Checkout my channel- https://www.youtube.com/c/drumssarvesh
+👋 Hello world! I’m Sarveshvar S<br><br>🎓I'm a first-year B.Tech in Information Technology student<br> 👀 I’m interested in exploring new technologies, coding challenges, and innovative software solutions.<br>🌱 I’m currently learning C++, web development, and data structures and algorithms.<br>💞️ I’m looking to collaborate on open-source projects and participate in hackathons.<br>📫 Feel free to connect with me via https://www.linkedin.com/in/sarveshvar-s-218715277/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a drummer! Checkout my channel- https://www.youtube.com/c/drumssarvesh
 
 
 ## 🌐 Socials:
